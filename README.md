@@ -10,16 +10,17 @@ Compact Deep Convolutional Neural Networks (DCNNs), based on **ResNet** and **Mo
 - **Compact Design**: The architectures reduce the number of parameters, making them lightweight and efficient.  
 - **Suitability for Low-Resource Settings**: The reduced parameter count ensures these models are ideal for deployment in environments with limited computational resources.
 
-  # Model Performance  
+  # Model Performance of MobileNetV2  
 
-## Accuracy Curve  
+## Accuracy Curve & Loss Curve for Multiclassification
 ![Accuracy Curve](path/to/accuracy_curve.png)  
 
-## Loss Curve  
+## Accuracy Curve & Loss Curve for Binaryclassification  
 ![Loss Curve](path/to/loss_curve.png)  
 
 ## Confusion Matrix  
-![Confusion Matrix](path/to/confusion_matrix.png)  
+![Confusion Matrix](outputs for physionet/ROC_physionet.png) 
+![Confusion Matrix](outputs for physionet/ROC_MITBIH.png) 
 
 
  
