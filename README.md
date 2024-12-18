@@ -13,14 +13,14 @@ Compact Deep Convolutional Neural Networks (DCNNs), based on **ResNet** and **Mo
   # Model Performance of MobileNetV2  
 
 ## Accuracy Curve & Loss Curve for Multiclassification
-![Accuracy Curve](path/to/accuracy_curve.png)  
+![Accuracy Curve](outputs for physionet/accuracy_physionet.png)  
 
 ## Accuracy Curve & Loss Curve for Binaryclassification  
-![Loss Curve](path/to/loss_curve.png)  
+![Loss Curve](outputs for physionet/accuracy_MITBIH.png)  
 
 ## Confusion Matrix  
+![Confusion Matrix](outputs for physionet/Roc_MITBIH.png) 
 ![Confusion Matrix](outputs for physionet/ROC_physionet.png) 
-![Confusion Matrix](outputs for physionet/ROC_MITBIH.png) 
 
 
  
